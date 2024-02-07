@@ -1,5 +1,25 @@
 [
     {
+        "name": "Microcontroller for Servo Actuation",
+        "url": "https://github.com/bethanyannec11/accel_servo_project",
+        "description": "Programmed PIC18F87K22 microcontroller to read accelerometer data and actuate servos accordingly.",
+        "banner": "https://opengraph.githubassets.com/cdef64b46763f8f11c43f6744a0c2c42f0fe1ce2082a8910577eb13bea9d2f33/vedic-lang/vedic",
+        "color": "#dea584",
+        "lang": "C",
+        "date": "2023-12-11T12:06:09Z",
+        "generatedOn": "2024-02-01 01:11:32.311970"
+    },
+    {
+        "name": "Robust Control of Helicopter",
+        "url": "https://github.com/bethanyannec11/helicopter_control",
+        "description": "Robust control of 6DOF system including uncertainty and nominal performance analysis and synthesis of H-infinity controller.",
+        "banner": "https://opengraph.githubassets.com/cdef64b46763f8f11c43f6744a0c2c42f0fe1ce2082a8910577eb13bea9d2f33/vedic-lang/vedic",
+        "color": "#dea584",
+        "lang": "Matlab",
+        "date": "2023-04-11T12:06:09Z",
+        "generatedOn": "2024-02-01 01:11:32.311970"
+    },
+    {
         "name": "UAV System Identification",
         "url": "https://github.com/bethanyannec11/UAV_sysID_project",
         "description": "System ID of Fixed-Wing UAV",
@@ -8,7 +28,7 @@
         "lang": "Matlab",
         "date": "2023-04-11T12:06:09Z",
         "generatedOn": "2024-02-01 01:11:32.311970"
-    },
+    }
     {
         "name": "bhagavad-gita-api",
         "url": "https://github.com/vedicscriptures/bhagavad-gita-api",
@@ -17,8 +37,6 @@
         "color": "#f1e05a",
         "lang": "JavaScript",
         "date": "2020-11-19T09:58:47Z",
-        "stars": 137,
-        "forks": 25,
         "generatedOn": "2024-02-01 01:11:32.311970"
     },
     {
