@@ -220,6 +220,12 @@ p {
 .bg-gray {
   background: #211f1f !important;
 }
+.bg-purple {
+  background: #DCC8FA !important;
+}
+.bg-pink {
+  background: #FAC8DD !important;
+}
 .font-capitalize {
   text-transform: capitalize;
 }
