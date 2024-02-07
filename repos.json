@@ -1,14 +1,12 @@
 [
     {
-        "name": "vedic",
-        "url": "https://github.com/vedic-lang/vedic",
-        "description": "Vedic is World first working Programming launguage in Sanskrit",
+        "name": "UAV System Identification",
+        "url": "https://github.com/bethanyannec11/UAV_sysID_project",
+        "description": "System ID of Fixed-Wing UAV",
         "banner": "https://opengraph.githubassets.com/cdef64b46763f8f11c43f6744a0c2c42f0fe1ce2082a8910577eb13bea9d2f33/vedic-lang/vedic",
         "color": "#dea584",
-        "lang": "Rust",
-        "date": "2022-04-11T12:06:09Z",
-        "stars": 189,
-        "forks": 24,
+        "lang": "Matlab",
+        "date": "2023-04-11T12:06:09Z",
         "generatedOn": "2024-02-01 01:11:32.311970"
     },
     {
