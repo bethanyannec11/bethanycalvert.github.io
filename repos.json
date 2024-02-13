@@ -37,9 +37,9 @@
     },
     {
         "name": "Cooperative Localization",
-        "url": "https://github.com/bethanyannec11/coop_loc_project",
-        "description": "An opensource rest API on Vedic Scripture Shrimad Bhagavad Gita",
-        "banner": "https://repository-images.githubusercontent.com/314205765/0bb18d80-2b22-11eb-8f6f-ccf20c0c2679",
+        "url": "https://github.com/donceykong/coop_localization.git",
+        "description": "Cooperative localization of UAV via state",
+        "banner": "https://github.com/bethanyannec11/bethanycalvert.github.io/blob/main/Screenshot%202024-02-12%20at%206.55.40%20PM.png?raw=true",
         "color": "#f1e05a",
         "lang": "Matlab",
         "date": "2022-11-19T09:58:47Z",
