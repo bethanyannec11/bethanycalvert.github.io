@@ -6,7 +6,7 @@
         "banner": "https://github.com/bethanyannec11/bethanycalvert.github.io/blob/main/PIC18.jpeg?raw=true",
         "color": "#4B4B4B",
         "lang": "C",
-        "date": "",
+        
         "stars": 6,
         "forks": 6,
         "generatedOn": "2024-02-01 01:11:32.311970"
@@ -40,6 +40,18 @@
         "url": "https://github.com/donceykong/coop_localization.git",
         "description": "Cooperative localization between UAV and UGV systems",
         "banner": "https://github.com/bethanyannec11/bethanycalvert.github.io/blob/main/Screenshot%202024-02-12%20at%206.55.40%20PM.png?raw=true",
+        "color": "#E86900",
+        "lang": "Matlab",
+        "date": "",
+        "stars": 6,
+        "forks": 6,
+        "generatedOn": "2024-02-01 01:11:32.311970"
+    }
+    {
+        "name": "Attitude Control of Aircraft",
+        "url": "https://github.com/bethanyannec11/Aircraft_Attitude_Control.git",
+        "description": "State feedback and LQR control of fixed-wing aircraft dynamics.",
+        "banner": "https://github.com/bethanyannec11/bethanycalvert.github.io/blob/main/SysID.png?raw=true",
         "color": "#E86900",
         "lang": "Matlab",
         "date": "",
