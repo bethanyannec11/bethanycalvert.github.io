@@ -547,6 +547,11 @@ p {
   text-transform: capitalize;
   margin-top: 25px;
 }
+.blog-img {
+  max-height: 200px; /* Set your desired height */
+  width: 100%;
+  object-fit: cover; /* Ensure the image covers the entire container */
+}
 .blog-sec .mdl-card .mdl-card__title {
   overflow: hidden;
 }
