@@ -4,7 +4,7 @@
         "url": "https://github.com/bethanyannec11/accel_servo_project",
         "description": "Programmed PIC18F87K22 microcontroller to read accelerometer data and actuate servos accordingly.",
         "banner": "https://github.com/bethanyannec11/bethanycalvert.github.io/blob/main/PIC18.jpeg?raw=true",
-        "color": "#dea584",
+        "color": "#4B4B4B",
         "lang": "C",
         "date": "2023-12-11T12:06:09Z",
         "stars": 6,
@@ -24,9 +24,9 @@
         "generatedOn": "2024-02-01 01:11:32.311970"
     },
     {
-        "name": "UAV System Identification",
+        "name": "Aircraft System Identification",
         "url": "https://github.com/bethanyannec11/UAV_sysID_project",
-        "description": "System ID of Fixed-Wing UAV",
+        "description": "System ID of fixed-wing aircraft longitudinal dynamics",
         "banner": "https://github.com/bethanyannec11/bethanycalvert.github.io/blob/main/SysID.png?raw=true",
         "color": "#E86900",
         "lang": "Matlab",
@@ -38,7 +38,7 @@
     {
         "name": "Cooperative Localization",
         "url": "https://github.com/donceykong/coop_localization.git",
-        "description": "Cooperative localization of UAV via state",
+        "description": "Cooperative localization between UAV and UGV systems",
         "banner": "https://github.com/bethanyannec11/bethanycalvert.github.io/blob/main/Screenshot%202024-02-12%20at%206.55.40%20PM.png?raw=true",
         "color": "#E86900",
         "lang": "Matlab",
