@@ -549,7 +549,7 @@ p {
 }
 .blog-img {
   max-height: 200px; /* Set your desired height */
-  width: 100%;
+  width: 100%;s
   object-fit: cover; /* Ensure the image covers the entire container */
 }
 .blog-sec .mdl-card .mdl-card__title {
