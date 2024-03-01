@@ -721,61 +721,36 @@ p {
 #repo-card {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 .repo-card {
-  width: 100%;
+  width: 300px; /* Set a fixed width for each card */
   box-sizing: border-box;
   margin-bottom: 20px;
 }
 
-.mdl-card {
-  width: 100%;
+.card-content {
+  height: 200px; /* Set a fixed height for the content section */
+  overflow: hidden;
 }
 
-.mdl-card__title {
-  height: 200px; /* Set a fixed height for the card title section */
-  overflow: hidden; /* Hide overflow content */
-}
-
-.blog-img {
+.card-content img {
   width: 100%;
   height: 100%;
-  object-fit: cover; /* Ensure the image covers the entire container */
+  object-fit: cover;
 }
 
-.mdl-card__supporting-text {
-  padding: 20px;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
+.card-text {
+  padding: 10px;
 }
 
-.blog-cat {
-  display: block;
-  margin-bottom: 15px;
+.card-title {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
 }
 
-.blog-cat span {
-  display: inline-block;
-  margin-right: 10px;
-}
-
-.lang {
-  width: 20px;
-  height: 20px;
-  border-radius: 50%;
-  display: inline-block;
-  margin-right: 5px;
-}
-
-.mdl-card__actions {
-  padding: 10px 20px;
-  border-top: 1px solid #ddd; /* Add a border at the top of the card actions */
-}
-
-.blog-post-date {
+.card-description {
   font-size: 14px;
-  color: #888;
 }
