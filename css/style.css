@@ -747,6 +747,9 @@ p {
 
 .mdl-card__supporting-text {
   padding: 20px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .blog-cat {
