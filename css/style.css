@@ -716,3 +716,63 @@ p {
     margin-left: 10px;
   }
 }
+/* Add this CSS to your stylesheet or in a style tag in the head of your HTML document */
+
+#repo-card {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.repo-card {
+  width: 100%;
+  box-sizing: border-box;
+  margin-bottom: 20px;
+}
+
+.mdl-card {
+  width: 100%;
+}
+
+.mdl-card__title {
+  height: 200px; /* Set a fixed height for the card title section */
+  overflow: hidden; /* Hide overflow content */
+}
+
+.blog-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Ensure the image covers the entire container */
+}
+
+.mdl-card__supporting-text {
+  padding: 20px;
+}
+
+.blog-cat {
+  display: block;
+  margin-bottom: 15px;
+}
+
+.blog-cat span {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.lang {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 5px;
+}
+
+.mdl-card__actions {
+  padding: 10px 20px;
+  border-top: 1px solid #ddd; /* Add a border at the top of the card actions */
+}
+
+.blog-post-date {
+  font-size: 14px;
+  color: #888;
+}
